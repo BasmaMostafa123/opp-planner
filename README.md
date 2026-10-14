@@ -35,7 +35,7 @@ VITE_SUPABASE_ANON_KEY=
 
 Push to `main` — the GitHub Actions workflow builds the app and deploys it to the `gh-pages` branch.
 
-Live URL: `https://<your-github-username>.github.io/opp-planner/`
+Live URL: `https://BasmaMostafa123.github.io/opp-planner/`
 
 ## Project structure
 
